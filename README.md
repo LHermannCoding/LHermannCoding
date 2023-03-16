@@ -1,4 +1,4 @@
-### Welcome to my GitHub👋
+### Hello World👋
 
 My name is Luke Hermann. I am currently a student at the University of Chicago majoring in both computer science and economics. I work mainly in Python, with comfort in the numpy, pandas, and pygame libraries.
 
