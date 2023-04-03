@@ -2,7 +2,7 @@
 
 My name is Luke Hermann. I am currently a student at the University of Chicago majoring in both computer science and economics. I work mainly in Python, with comfort in the numpy, pandas, and pygame libraries. Right now, I am learning both the C and R programming languages.
 
-## Past Projects:
+## Personal Favorite Past Projects:
 Checkers! (Python) - https://www.loom.com/share/8f8f67c2e6094a69a6b2c4ec6db4f447
 
 Midway Frogger! (Unity, Audacity) - https://drive.google.com/file/d/1hi0f873qGf6MsaD-KKI7A3kpR7CQpJYM/view
