@@ -3,7 +3,7 @@
 My name is Luke Hermann. I am currently a student at the University of Chicago majoring in both computer science and economics. I work mainly in Python, with most comfort in numpy, pandas, and pygame libraries. Right now, I am learning C and Pygame in my free time.
 
 ## Project Portfolio Favorites:
-Gnome: Makizushi (Summer 2023, Solo Project) - https://lhermanncoding.itch.io/gnome-makizushi
+Gnome: Makizushi (Summer 2023, Solo Project) - https://github.com/LHermannCoding/Gnome-Makizushi
 
 Checkers (Winter 2022-23, w/ CS14200 Group) - https://www.loom.com/share/8f8f67c2e6094a69a6b2c4ec6db4f447
 
